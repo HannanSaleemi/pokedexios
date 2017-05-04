@@ -11,13 +11,13 @@ Features:
        
 Main page:
 
-![solarized vim](https://cloud.githubusercontent.com/assets/20740087/25717757/6477e286-30fb-11e7-90c9-68bcc32dbb82.PNG)
+![solarized vim](https://cloud.githubusercontent.com/assets/20740087/25718211/23e1813a-30fd-11e7-8bac-5f9867dc83d2.JPG)
 
 Charecter Information:
 
-![solarized vim](https://cloud.githubusercontent.com/assets/20740087/25717757/6477e286-30fb-11e7-90c9-68bcc32dbb82.PNG)
+![solarized vim](https://cloud.githubusercontent.com/assets/20740087/25718214/265068b4-30fd-11e7-9406-1f84e56e065f.JPG)
 
 Searching Demo:
 
-![solarized vim](https://cloud.githubusercontent.com/assets/20740087/25717757/6477e286-30fb-11e7-90c9-68bcc32dbb82.PNG)
+![solarized vim](https://cloud.githubusercontent.com/assets/20740087/25718215/276018a8-30fd-11e7-8bc1-7ad0d7361b27.JPG)
 
